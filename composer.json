@@ -9,5 +9,10 @@
             "email": "loboda@aeroidea.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Maaaxim\\": "src"
+        }
+    }
 }
