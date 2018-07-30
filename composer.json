@@ -1,0 +1,13 @@
+{
+    "name": "maaaxim/sum",
+    "description": "Some test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim Loboda",
+            "email": "loboda@aeroidea.ru"
+        }
+    ],
+    "require": {}
+}
